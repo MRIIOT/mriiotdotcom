@@ -1,0 +1,458 @@
+{
+  "personal": {
+    "profileType": "company",
+    "name": "Mr. IIoT",
+    "firstName": "Chris",
+    "lastName": "Misztur",
+    "title": "Digital Transformation & IIoT Solutions",
+    "tagline": "Digitally Transforming Manufacturing",
+    "shortBio": "Mr. IIoT specializes in providing advanced IoT solutions that drive digital Industry 4.0 transformation and industrial automation, empowering businesses to leverage the Internet of Things to increase operational efficiency, enhance business intelligence, and foster process optimization.",
+    "fullBio": "At Mr. IIoT, we specialize in providing advanced IoT solutions that drive digital Industry 4.0 transformation and industrial automation. Our mission is to empower businesses to leverage the Internet of Things (IoT) to increase operational efficiency, enhance business intelligence, and foster process optimization.\n\nThe Industrial Internet of Things (IIoT) means accessing real-time information from manufacturing assets and refers to a network of interconnected devices that communicate and exchange data with each other over the internet. By integrating sensors, software, and other technologies, IoT enables devices to collect and share data seamlessly, leading to smarter operations and better decision-making across various industries.\n\nMr. IIoT offers comprehensive and customized business system integration services and products designed to facilitate your organization's transition to a digital future. Our expert team works directly with you and implements tailored strategies, so you get more than just production out of your machinery. We provide business system integration solutions that ensure your existing systems and new IoT technologies work harmoniously together, enhancing information flow and operational synergy.\n\nWe recognize that every organization is unique. Our solutions are customized to meet your specific needs, ensuring a smoother transition and effective system integration. We are dedicated to providing you with digital industry transformation solutions that position your business for sustained success.",
+    "yearsExperience": "15+",
+    "location": "Chicago, IL"
+  },
+  "contact": {
+    "email": "info@mriiot.com",
+    "phone": "(312) 504-0681",
+    "website": "https://www.mriiot.com",
+    "calendlyUrl": "",
+    "responseTime": "Within one business day"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/mriiot/",
+    "twitter": "",
+    "github": "",
+    "instagram": "",
+    "youtube": "",
+    "facebook": ""
+  },
+  "branding": {
+    "siteName": "Mr. IIoT",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1621871753129-WQC5Y9RLB39Z62ZC5V76/mriiot_logo_square.jpg?format=1500w",
+    "faviconUrl": "",
+    "lightTheme": false,
+    "colors": {
+      "primary": "#0a0a0a",
+      "secondary": "#111111",
+      "accent": "#1a7fc4",
+      "text": "#ffffff",
+      "textMuted": "#999999",
+      "border": "rgba(255, 255, 255, 0.1)"
+    }
+  },
+  "heroSlides": [
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/43808801-8650-44a5-87aa-a71271d0472b/mr.iiot-hero-01.jpg",
+      "subtitle": "Industry 4.0",
+      "title": "Digitally Transforming Manufacturing",
+      "description": "We specialize in providing advanced IoT solutions that drive digital Industry 4.0 transformation and industrial automation. Our mission is to empower businesses to leverage the Internet of Things to increase operational efficiency, enhance business intelligence, and foster process optimization.",
+      "buttonText": "Get Started Today",
+      "buttonLink": "contact.html"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/bc50e69e-e9fd-4ae0-b147-3a57095e07a0/bg-sharc-2.jpg",
+      "subtitle": "Our Product",
+      "title": "SHARC IoT Sensor Adapter",
+      "description": "Get your sensors on your network. Any sensor. Any network. The SHARC IoT sensor adapter is designed to transform the way your organization interacts with its operations, bridging the gap between existing machinery and the digital world.",
+      "buttonText": "Learn More",
+      "buttonLink": "services.html"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/8cee062b-662a-446e-ae7e-1584010ca91e/bg-sharc-1.jpg",
+      "subtitle": "Data Integration",
+      "title": "Next Generation Industrial DataOps",
+      "description": "Unified data integration platform with real-time visibility and monitoring. Low-code/no-code configuration with an extensive connector library for reduced integration costs and enhanced operational intelligence.",
+      "buttonText": "Explore Solutions",
+      "buttonLink": "solutions.html"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1620066821503-A2WQD0NYFBPO9O8YKLVB/unsplash-image-ooNO0LlxZRM.jpg",
+      "subtitle": "Analytics",
+      "title": "Unlock the Power of Data",
+      "description": "Comprehensive analytics solutions designed to transform raw data into actionable insights. Real-time monitoring, predictive analytics, custom dashboards, data integration, and advanced reporting to enhance your operational efficiency.",
+      "buttonText": "Contact Us",
+      "buttonLink": "contact.html"
+    }
+  ],
+  "services": [
+    {
+      "icon": "fas fa-microchip",
+      "title": "SHARC IoT Sensor Adapter",
+      "shortDesc": "Get your sensors on your network. Any sensor. Any network. Alert on abnormal readings, capture events, and record sensor data in real-time.",
+      "fullDesc": "The SHARC IoT sensor adapter is designed to transform the way your organization interacts with its operations. As a powerful catalyst for digital Industry 4.0 transformation, the SHARC helps businesses streamline their processes, optimize efficiency, and leverage real-time data-driven insights. The SHARC is universal, communicates seamlessly with all platforms, and bridges the gap between your existing machinery and the digital world.",
+      "features": [
+        "Universal compatibility with any sensor and network",
+        "Real-time data monitoring and alerts",
+        "User-friendly interface for easy management",
+        "Scalable architecture that grows with your needs"
+      ]
+    },
+    {
+      "icon": "fas fa-network-wired",
+      "title": "Machine Data Integration",
+      "shortDesc": "Unified data integration platform with real-time visibility, low-code configuration, and an extensive connector library.",
+      "fullDesc": "Our integration platform provides next-generation industrial DataOps capabilities. With support for dozens of source and sink protocols including MTConnect, OPC-UA, MQTT, Modbus/TCP, Siemens S7, Fanuc CNC, and many more, we connect your disparate systems into a unified data pipeline. Low-code/no-code configuration reduces implementation time and cost.",
+      "features": [
+        "25+ source protocols supported",
+        "15+ sink protocols supported",
+        "Low-code/no-code configuration",
+        "Real-time visibility and monitoring"
+      ]
+    },
+    {
+      "icon": "fas fa-chart-bar",
+      "title": "Machine Data Analytics",
+      "shortDesc": "Scalable machine data collection and analytics with real-time monitoring, predictive analytics, and custom dashboards.",
+      "fullDesc": "Our comprehensive analytics solutions transform raw data into actionable insights, enhancing operational efficiency and driving informed decision-making. We offer real-time monitoring, predictive analytics, custom dashboards, data integration, and advanced reporting capabilities that scale seamlessly as your operations grow.",
+      "features": [
+        "Real-time monitoring dashboards",
+        "Predictive analytics and maintenance",
+        "Custom dashboard development",
+        "Advanced reporting and data integration"
+      ]
+    },
+    {
+      "icon": "fas fa-industry",
+      "title": "Digital Industry 4.0 Transformation",
+      "shortDesc": "Tailored services guiding organizations through the complexities of digital transformation to remain competitive.",
+      "fullDesc": "Our tailored digital transformation services guide organizations through the complexities of Industry 4.0 adoption, ensuring they remain competitive in an ever-evolving marketplace. We help businesses adapt to the latest advancements and capitalize on new opportunities through the seamless application of advanced IoT solutions.",
+      "features": [
+        "Digital maturity assessment",
+        "Transformation roadmap development",
+        "Technology selection and implementation",
+        "Change management and training"
+      ]
+    },
+    {
+      "icon": "fas fa-plug",
+      "title": "Business System Integration",
+      "shortDesc": "Customized integration solutions that connect disparate systems, ensuring smooth communication and operational efficiency.",
+      "fullDesc": "We provide customized integration and advanced IoT solutions that connect disparate systems, ensuring smooth communication and enhancing overall operational efficiency. Our solutions ensure your existing systems and new IoT technologies work harmoniously together, enhancing information flow and operational synergy.",
+      "features": [
+        "ERP/MES connectivity",
+        "IT/OT convergence",
+        "Middleware solutions",
+        "Data flow optimization"
+      ]
+    },
+    {
+      "icon": "fas fa-robot",
+      "title": "Industrial Automation",
+      "shortDesc": "State-of-the-art automation strategies to streamline operations, optimize processes, and improve productivity.",
+      "fullDesc": "By implementing state-of-the-art automation strategies, we help businesses streamline their operations, optimize processes, and improve productivity. Our cutting-edge industrial automation solutions empower you to automate manual processes, reduce human error, and achieve sustained efficiency gains.",
+      "features": [
+        "Process automation design",
+        "CNC and robot integration",
+        "Automated data collection",
+        "Performance optimization"
+      ]
+    }
+  ],
+  "solutions": [
+    {
+      "title": "IT/OT Connectivity",
+      "description": "Bridge the gap between Information Technology and Operational Technology systems. We enable seamless data flow between the factory floor and enterprise systems, creating a unified view of your operations.",
+      "features": [
+        "Network architecture design",
+        "Protocol translation",
+        "Secure data routing",
+        "Enterprise system connectivity"
+      ]
+    },
+    {
+      "title": "Digital Transformation",
+      "description": "Comprehensive digital transformation services that guide your organization from legacy systems to Industry 4.0 readiness. We assess, plan, and implement the right technologies for your unique manufacturing environment.",
+      "features": [
+        "Digital maturity assessment",
+        "Transformation roadmap",
+        "Technology implementation",
+        "Organizational change management"
+      ]
+    },
+    {
+      "title": "Machine Monitoring",
+      "description": "Real-time visibility into machine performance, status, and health. Capture equipment event changes, monitor sensor readings, and alert on abnormal conditions to prevent unplanned downtime.",
+      "features": [
+        "Real-time machine status",
+        "OEE tracking",
+        "Downtime analysis",
+        "Predictive maintenance alerts"
+      ]
+    },
+    {
+      "title": "Compliance and Traceability",
+      "description": "Ensure regulatory compliance and full traceability across your manufacturing processes. Automated data collection and reporting help you meet industry standards and customer requirements.",
+      "features": [
+        "Automated data logging",
+        "Audit trail management",
+        "Regulatory reporting",
+        "Quality control integration"
+      ]
+    },
+    {
+      "title": "Middleware Solutions",
+      "description": "Connect legacy equipment and modern systems through flexible middleware architectures. Our solutions translate between protocols, aggregate data, and ensure reliable communication across your entire operation.",
+      "features": [
+        "Protocol translation",
+        "Data aggregation",
+        "Legacy system connectivity",
+        "Message queuing and routing"
+      ]
+    },
+    {
+      "title": "Order Processing Transformation",
+      "description": "Streamline and automate order processing workflows from receipt through fulfillment. Eliminate manual data entry, reduce errors, and accelerate order-to-delivery cycles through intelligent integration.",
+      "features": [
+        "Workflow automation",
+        "ERP integration",
+        "Error reduction",
+        "Cycle time optimization"
+      ]
+    }
+  ],
+  "focusAreas": {
+    "subheading": "What We Do",
+    "heading": "Areas of Expertise",
+    "tagline": "Advanced IoT solutions for digital Industry 4.0 transformation and industrial automation",
+    "areas": [
+      {
+        "category": "PRODUCT",
+        "title": "SHARC IoT Sensor Adapter",
+        "image": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/bc50e69e-e9fd-4ae0-b147-3a57095e07a0/bg-sharc-2.jpg"
+      },
+      {
+        "category": "INTEGRATE",
+        "title": "Machine Data Integration",
+        "image": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/8cee062b-662a-446e-ae7e-1584010ca91e/bg-sharc-1.jpg"
+      },
+      {
+        "category": "ANALYZE",
+        "title": "Machine Data Analytics",
+        "image": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1620066821503-A2WQD0NYFBPO9O8YKLVB/unsplash-image-ooNO0LlxZRM.jpg"
+      },
+      {
+        "category": "TRANSFORM",
+        "title": "Digital Transformation",
+        "image": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/43808801-8650-44a5-87aa-a71271d0472b/mr.iiot-hero-01.jpg"
+      },
+      {
+        "category": "AUTOMATE",
+        "title": "Industrial Automation",
+        "image": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/4aa6f1fa-acda-4d5a-84f9-397ec4042756/bg-sharc-3.jpg"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "period": "Foundation",
+      "title": "IIoT Expertise Development",
+      "description": "Built deep expertise in industrial IoT, machine connectivity, and manufacturing systems. Developed hands-on experience with CNC machines, PLCs, sensors, and industrial communication protocols across diverse manufacturing environments."
+    },
+    {
+      "period": "Innovation",
+      "title": "SHARC Product Development",
+      "description": "Designed and launched the SHARC IoT sensor adapter — a universal device that bridges the gap between any industrial sensor and any network. Created a hardware and software ecosystem for plug-and-play machine data collection."
+    },
+    {
+      "period": "Growth",
+      "title": "Scaling Digital Transformation",
+      "description": "Expanded services to include full-stack digital transformation consulting, machine data integration platforms, and analytics solutions. Partnered with organizations like MTConnect, ASME, MESA International, and IoF to advance industry standards."
+    }
+  ],
+  "philosophy": [
+    {
+      "icon": "fas fa-bolt",
+      "title": "Real-Time Intelligence",
+      "description": "Quickly accessing and leveraging information from your machinery helps you make fact-based decisions that are accurate and reliable."
+    },
+    {
+      "icon": "fas fa-shield-alt",
+      "title": "Predictive Prevention",
+      "description": "Predict and prevent machine shutdowns before they happen, reducing unplanned downtime and protecting your production schedule."
+    },
+    {
+      "icon": "fas fa-chart-line",
+      "title": "Efficiency Optimization",
+      "description": "Increase the efficiency and quality of your production process through data-driven insights and continuous improvement."
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Practical Problem-Solving",
+      "description": "Promote practical problem-solving across your organization by giving every stakeholder access to the information they need."
+    },
+    {
+      "icon": "fas fa-cogs",
+      "title": "Process Automation",
+      "description": "Automate production-supporting IT processes and data exchanges to eliminate manual effort and reduce human error."
+    },
+    {
+      "icon": "fas fa-puzzle-piece",
+      "title": "Universal Compatibility",
+      "description": "Our solutions work with any sensor, any network, and any platform — ensuring you're never locked into a single vendor or technology."
+    },
+    {
+      "icon": "fas fa-expand-arrows-alt",
+      "title": "Scalable Architecture",
+      "description": "As your operations grow, our solutions scale with your needs, allowing for easy expansion and integration of new devices and data sources."
+    },
+    {
+      "icon": "fas fa-handshake",
+      "title": "Partnership Approach",
+      "description": "We work hand-in-hand with your IT/OT personnel to guide them in implementing all necessary software, hardware, and technical training for operational excellence."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Mr. IIoT transformed our ability to collect and analyze machine data in real-time. The SHARC adapter connected our legacy equipment to our network in days, not months.",
+      "author": "Plant Manager",
+      "role": "Plant Manager",
+      "company": "Aerospace Manufacturing"
+    },
+    {
+      "quote": "The integration platform eliminated our data silos and gave us a unified view of production across all our CNC machines. We can now make fact-based decisions instantly.",
+      "author": "Director of Operations",
+      "role": "Director of Operations",
+      "company": "Precision Machining"
+    },
+    {
+      "quote": "Their digital transformation roadmap was exactly what we needed. They understood our manufacturing environment and delivered practical solutions that our team could actually use.",
+      "author": "VP of Manufacturing",
+      "role": "VP of Manufacturing",
+      "company": "Industrial Equipment"
+    }
+  ],
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/43808801-8650-44a5-87aa-a71271d0472b/mr.iiot-hero-01.jpg",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/bc50e69e-e9fd-4ae0-b147-3a57095e07a0/bg-sharc-2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/8cee062b-662a-446e-ae7e-1584010ca91e/bg-sharc-1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/4aa6f1fa-acda-4d5a-84f9-397ec4042756/bg-sharc-3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1620066821503-A2WQD0NYFBPO9O8YKLVB/unsplash-image-ooNO0LlxZRM.jpg",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/b1acd136-3ee5-4de9-bb4c-7b472a3a2770/About-bg.png"
+  ],
+  "images": {
+    "heroBackground": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/43808801-8650-44a5-87aa-a71271d0472b/mr.iiot-hero-01.jpg",
+    "aboutImage": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/b1acd136-3ee5-4de9-bb4c-7b472a3a2770/About-bg.png",
+    "parallaxImage1": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1620066821503-A2WQD0NYFBPO9O8YKLVB/unsplash-image-ooNO0LlxZRM.jpg",
+    "parallaxImage2": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/8cee062b-662a-446e-ae7e-1584010ca91e/bg-sharc-1.jpg"
+  },
+  "seo": {
+    "siteTitle": "Mr. IIoT - Digitally Transforming Manufacturing",
+    "siteDescription": "Advanced IoT solutions driving digital Industry 4.0 transformation and industrial automation. SHARC IoT sensor adapters, machine data integration, analytics, and business system integration services.",
+    "keywords": "IIoT, Industrial Internet of Things, Industry 4.0, Digital Transformation, SHARC, IoT Sensor Adapter, Machine Monitoring, Data Integration, Industrial Automation, Manufacturing, OPC-UA, MTConnect, MQTT, Analytics",
+    "ogImage": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/43808801-8650-44a5-87aa-a71271d0472b/mr.iiot-hero-01.jpg"
+  },
+  "footer": {
+    "tagline": "We are the last mile of your factory network and the first mile of your information network.",
+    "copyright": "MRIIOT LLC"
+  },
+  "process": [
+    {
+      "title": "Assess",
+      "shortDesc": "Understand your current state",
+      "fullDesc": "We start by understanding what's actually happening on your factory floor. We evaluate your existing machinery, network infrastructure, data flows, and organizational readiness. This assessment identifies the gaps between where you are and where you need to be for successful digital transformation.",
+      "deliverables": [
+        "Current state assessment",
+        "Network and equipment inventory",
+        "Data flow mapping",
+        "Gap analysis and readiness report"
+      ]
+    },
+    {
+      "title": "Design",
+      "shortDesc": "Architect the right solution",
+      "fullDesc": "With a clear understanding of your environment and goals, we design a tailored solution architecture. This includes sensor selection, network topology, data integration strategy, and analytics platform configuration — all customized to your specific manufacturing environment and business objectives.",
+      "deliverables": [
+        "Solution architecture design",
+        "Sensor and hardware specifications",
+        "Integration strategy",
+        "Implementation roadmap"
+      ]
+    },
+    {
+      "title": "Implement",
+      "shortDesc": "Deploy with precision",
+      "fullDesc": "Our team works directly with your IT/OT personnel to install and configure all hardware and software components. We ensure every SHARC adapter, integration connector, and analytics dashboard is properly deployed, tested, and validated before going live.",
+      "deliverables": [
+        "Hardware installation",
+        "Software configuration",
+        "System integration testing",
+        "User acceptance validation"
+      ]
+    },
+    {
+      "title": "Optimize",
+      "shortDesc": "Drive continuous improvement",
+      "fullDesc": "Once your system is live, we help you leverage the data to drive real operational improvements. We provide training, ongoing support, and optimization guidance to ensure your team can harness the full potential of your new digital infrastructure for sustained success.",
+      "deliverables": [
+        "Operator and IT/OT training",
+        "Performance baseline establishment",
+        "Continuous improvement planning",
+        "Ongoing technical support"
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "problem": "No Visibility into Machine Performance",
+      "solution": "Legacy machines running blind with no data collection. The SHARC IoT sensor adapter connects any sensor to any network, giving you real-time visibility into machine status, performance, and health without replacing existing equipment."
+    },
+    {
+      "problem": "Data Silos Across the Factory",
+      "solution": "Different machines speaking different protocols with no unified view. Our integration platform supports 25+ source protocols and 15+ sink protocols, creating a unified data pipeline from any equipment to any enterprise system."
+    },
+    {
+      "problem": "Unplanned Downtime",
+      "solution": "Unexpected machine failures disrupting production schedules and costing thousands per hour. Predictive analytics based on real-time sensor data help you predict and prevent shutdowns before they happen."
+    },
+    {
+      "problem": "Manual Data Collection",
+      "solution": "Operators recording machine data on clipboards and spreadsheets — slow, error-prone, and impossible to analyze at scale. Automated data collection eliminates manual effort and provides accurate, real-time information."
+    },
+    {
+      "problem": "IT/OT Disconnect",
+      "solution": "Factory floor systems isolated from enterprise IT, creating blind spots in business intelligence. We bridge the IT/OT gap with secure, reliable connectivity between operational technology and information systems."
+    },
+    {
+      "problem": "Decision-Making Based on Gut Feel",
+      "solution": "Managers making production decisions without data to back them up. Real-time dashboards and analytics provide fact-based insights so every decision is informed by actual machine and process data."
+    },
+    {
+      "problem": "Legacy Equipment Can't Connect",
+      "solution": "Older machines with no built-in connectivity being left behind in digital transformation. The SHARC adapter retrofits any machine with IoT capability — no equipment replacement needed."
+    },
+    {
+      "problem": "Compliance and Traceability Gaps",
+      "solution": "Struggling to meet regulatory requirements with manual record-keeping. Automated data logging and audit trails ensure full traceability and compliance without additional operator burden."
+    },
+    {
+      "problem": "Vendor Lock-In",
+      "solution": "Stuck with proprietary platforms that only work with specific equipment brands. Our universal, standards-based approach works with any sensor, any protocol, and any platform — no vendor lock-in."
+    },
+    {
+      "problem": "Don't Know Where to Start with Industry 4.0",
+      "solution": "Overwhelmed by the complexity of digital transformation with no clear roadmap. We provide structured assessment, planning, and implementation services that take you step-by-step from current state to Industry 4.0 readiness."
+    }
+  ],
+  "audit": {
+    "title": "Free Digital Transformation Assessment",
+    "subtitle": "Start your Industry 4.0 journey",
+    "description": "Book a complimentary consultation to discuss your manufacturing environment, current challenges, and digital transformation goals. Our team will follow up within one business day to schedule your assessment.",
+    "benefits": [
+      {
+        "icon": "fas fa-search",
+        "title": "Current State Analysis",
+        "description": "We evaluate your existing equipment, network infrastructure, and data flows to identify opportunities."
+      },
+      {
+        "icon": "fas fa-road",
+        "title": "Transformation Roadmap",
+        "description": "Get a clear, prioritized roadmap tailored to your specific manufacturing environment and business goals."
+      },
+      {
+        "icon": "fas fa-dollar-sign",
+        "title": "ROI Assessment",
+        "description": "Understand the potential return on investment before committing to any implementation."
+      }
+    ]
+  }
+}
