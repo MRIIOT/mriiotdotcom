@@ -102,13 +102,13 @@
     {
       "icon": "fas fa-chart-bar",
       "title": "Machine Data Analytics",
-      "shortDesc": "Scalable machine data collection and analytics with real-time monitoring, predictive analytics, and custom dashboards.",
-      "fullDesc": "Our comprehensive analytics solutions transform raw data into actionable insights, enhancing operational efficiency and driving informed decision-making. We offer real-time monitoring, predictive analytics, custom dashboards, data integration, and advanced reporting capabilities that scale seamlessly as your operations grow.",
+      "shortDesc": "Scalable machine data collection and analytics built on the 5C Transformation framework: Collect, Convert, Convey, Contextualize, and Contribute.",
+      "fullDesc": "Our comprehensive analytics solutions follow the 5C Transformation framework to turn raw machine data into business value. We emphasize data ownership — ensuring you maintain full control with no vendor lock-in. We focus on proper data interpretation rather than stretching raw data into downstream applications, and we champion machine data standardization using established industry protocols like MTConnect rather than inventing proprietary formats. Our scalable platform provides real-time visibility across your entire operation with custom Grafana dashboards, OEE tracking, and predictive analytics.",
       "features": [
-        "Real-time monitoring dashboards",
-        "Predictive analytics and maintenance",
-        "Custom dashboard development",
-        "Advanced reporting and data integration"
+        "5C Transformation framework",
+        "Data ownership with no vendor lock-in",
+        "Grafana dashboards and OEE tracking",
+        "MTConnect standardization and Fanuc connectivity"
       ]
     },
     {
@@ -151,62 +151,62 @@
   "solutions": [
     {
       "title": "IT/OT Connectivity",
-      "description": "Bridge the gap between Information Technology and Operational Technology systems. We enable seamless data flow between the factory floor and enterprise systems, creating a unified view of your operations.",
+      "description": "Bridge the gap between Information Technology and Operational Technology systems. We helped a worldwide aerospace firm integrate diverse industrial equipment to its OT network, conducting thorough assessments, developing customized software components, and enabling seamless data flow for real-time analytics.",
       "features": [
-        "Network architecture design",
-        "Protocol translation",
-        "Secure data routing",
-        "Enterprise system connectivity"
+        "IT/OT infrastructure assessment",
+        "Protocol translation and connectivity",
+        "Customized software development",
+        "Real-time data collection and analytics"
       ]
     },
     {
       "title": "Digital Transformation",
-      "description": "Comprehensive digital transformation services that guide your organization from legacy systems to Industry 4.0 readiness. We assess, plan, and implement the right technologies for your unique manufacturing environment.",
+      "description": "Comprehensive Industry 4.0 transformation services tailored to your unique manufacturing environment. We partnered with a global leader in industrial fluid systems to deliver customized solutions addressing specific technical challenges, working across departments to improve processes and guide their digital transformation journey.",
       "features": [
         "Digital maturity assessment",
-        "Transformation roadmap",
-        "Technology implementation",
-        "Organizational change management"
+        "Customized transformation roadmap",
+        "Cross-department collaboration",
+        "Industry 4.0 technology implementation"
       ]
     },
     {
       "title": "Machine Monitoring",
-      "description": "Real-time visibility into machine performance, status, and health. Capture equipment event changes, monitor sensor readings, and alert on abnormal conditions to prevent unplanned downtime.",
+      "description": "Real-time visibility into machine performance, status, and health. We deployed the SHARC IoT sensor adapter at Ox Box to track machine performance and operational efficiency, enabling data-driven decisions that greatly improved their production process.",
       "features": [
-        "Real-time machine status",
-        "OEE tracking",
-        "Downtime analysis",
+        "SHARC IoT sensor deployment",
+        "Real-time machine status tracking",
+        "OEE and performance analytics",
         "Predictive maintenance alerts"
       ]
     },
     {
       "title": "Compliance and Traceability",
-      "description": "Ensure regulatory compliance and full traceability across your manufacturing processes. Automated data collection and reporting help you meet industry standards and customer requirements.",
+      "description": "Ensure regulatory compliance and full traceability across your manufacturing processes. We designed and built a Serial Shipping Container Code (SSCC) system for a nationwide baking company to meet FDA food safety regulations, integrating seamlessly with their existing ERP system across five locations.",
       "features": [
-        "Automated data logging",
-        "Audit trail management",
-        "Regulatory reporting",
-        "Quality control integration"
+        "FDA compliance solutions",
+        "SSCC label generation",
+        "ERP system integration",
+        "Multi-site deployment"
       ]
     },
     {
       "title": "Middleware Solutions",
-      "description": "Connect legacy equipment and modern systems through flexible middleware architectures. Our solutions translate between protocols, aggregate data, and ensure reliable communication across your entire operation.",
+      "description": "Connect legacy equipment and modern systems through flexible middleware. We created custom middleware for Chicago Coding Systems that enabled seamless connectivity across various platforms and devices, enabling real-time communication between machines and networks while reducing bottlenecks.",
       "features": [
-        "Protocol translation",
-        "Data aggregation",
-        "Legacy system connectivity",
-        "Message queuing and routing"
+        "Custom middleware development",
+        "Cross-platform connectivity",
+        "Real-time device communication",
+        "Labeling system integration"
       ]
     },
     {
       "title": "Order Processing Transformation",
-      "description": "Streamline and automate order processing workflows from receipt through fulfillment. Eliminate manual data entry, reduce errors, and accelerate order-to-delivery cycles through intelligent integration.",
+      "description": "Streamline and automate order processing workflows. We transformed Tempco's order processing by implementing EDI integration through SPS Commerce for their Grainger partnership, fully automating order entry so orders flow 24/7 without manual intervention.",
       "features": [
-        "Workflow automation",
-        "ERP integration",
-        "Error reduction",
-        "Cycle time optimization"
+        "EDI/SPS Commerce integration",
+        "Fully automated order entry",
+        "ERP connectivity",
+        "24/7 unattended processing"
       ]
     }
   ],
@@ -303,22 +303,40 @@
   ],
   "testimonials": [
     {
-      "quote": "Mr. IIoT transformed our ability to collect and analyze machine data in real-time. The SHARC adapter connected our legacy equipment to our network in days, not months.",
-      "author": "Plant Manager",
-      "role": "Plant Manager",
-      "company": "Aerospace Manufacturing"
+      "quote": "I had a very positive experience working with Chris... He's got a real passion for his work.",
+      "author": "IIoT Manager",
+      "role": "Software Engineer Manager",
+      "company": "Worldwide Aerospace Firm"
     },
     {
-      "quote": "The integration platform eliminated our data silos and gave us a unified view of production across all our CNC machines. We can now make fact-based decisions instantly.",
-      "author": "Director of Operations",
-      "role": "Director of Operations",
-      "company": "Precision Machining"
+      "quote": "Once we started working with Mr. IIoT, it felt like we had a hired gun.",
+      "author": "Automation Engineer",
+      "role": "Automation Engineer",
+      "company": "Global Industrial Fluid Systems Manufacturer"
     },
     {
-      "quote": "Their digital transformation roadmap was exactly what we needed. They understood our manufacturing environment and delivered practical solutions that our team could actually use.",
-      "author": "VP of Manufacturing",
-      "role": "VP of Manufacturing",
-      "company": "Industrial Equipment"
+      "quote": "Working with the SHARC IoT sensor adapter and utilizing our machine data analytics puts us in the position where we can greatly improve our production process.",
+      "author": "Guy Ockerlund",
+      "role": "President",
+      "company": "Ox Box"
+    },
+    {
+      "quote": "The team was incredibly solution-focused. They didn't just deliver a product but worked closely with us to understand our business.",
+      "author": "Director of IT",
+      "role": "Director of IT",
+      "company": "Nationwide Baking Company"
+    },
+    {
+      "quote": "I trust Chris and Mr. IIoT's team implicitly.",
+      "author": "Rob Wienhoff",
+      "role": "President",
+      "company": "Chicago Coding Systems"
+    },
+    {
+      "quote": "It's been working totally awesome. We literally don't even pay attention to it, and if something goes wrong, Mr. IIoT has created alerts for us so we can check right off the bat.",
+      "author": "Jeff Griffin",
+      "role": "IT Manager",
+      "company": "Tempco"
     }
   ],
   "gallery": [
@@ -327,7 +345,15 @@
     "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/8cee062b-662a-446e-ae7e-1584010ca91e/bg-sharc-1.jpg",
     "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/4aa6f1fa-acda-4d5a-84f9-397ec4042756/bg-sharc-3.jpg",
     "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1620066821503-A2WQD0NYFBPO9O8YKLVB/unsplash-image-ooNO0LlxZRM.jpg",
-    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/b1acd136-3ee5-4de9-bb4c-7b472a3a2770/About-bg.png"
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/b1acd136-3ee5-4de9-bb4c-7b472a3a2770/About-bg.png",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1735578468578-BWNGHW5302NYAKGC0XQT/jetassy.png",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1731689581501-NTJKE8PZQ3TAPCV0UODH/cnc_dt.png",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1731632155133-S90U4VS1KN084F4D9FWU/DALL%C2%B7E+2024-11-14+18.55.00+-+A+detailed+illustration+of+Industry+4.0+machine+monitoring+on+a+factory+floor.png",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1627670486976-OD7XDUTQTP53874MS0MA/mriiot-logo-glow.png",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/50396589-bea6-4a56-8618-2609ec63f50e/5Cs_hero-1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/1627590374404-H5U0HGUCU347M7GK7G1N/5C-transformation-diagram.png",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/2693a47a-2cb6-450a-97cd-2240ba83a907/grafana_oee.png",
+    "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/5e853055-0f41-4dd8-a0a0-ff0cf7bf0873/factory_data_stream_upward.jpeg"
   ],
   "images": {
     "heroBackground": "https://images.squarespace-cdn.com/content/v1/608d857651becb2b6cd61f86/43808801-8650-44a5-87aa-a71271d0472b/mr.iiot-hero-01.jpg",
