@@ -1,23 +1,26 @@
 # Mr. IIoT
 
-> Mr. IIoT specializes in providing advanced IoT solutions that drive digital Industry 4.0 transformation and industrial automation. They empower businesses to leverage the Internet of Things to increase operational efficiency, enhance business intelligence, and foster process optimization.
+> Mr. IIoT specializes in providing advanced IoT solutions that drive digital Industry 4.0 transformation and industrial automation, empowering businesses to leverage the Internet of Things to increase operational efficiency, enhance business intelligence, and foster process optimization.
 
-Based in Chicago, IL, Mr. IIoT brings 15+ years of expertise in Digital Transformation & IIoT Solutions, specializing in digitally transforming manufacturing. Their core offerings include the SHARC IoT Sensor Adapter, machine data integration, analytics, and comprehensive Industry 4.0 transformation services.
+Based in Chicago, IL, Mr. IIoT brings over 15 years of experience in Digital Transformation & IIoT Solutions, specializing in machine monitoring, data integration, and industrial automation.
 
 ## Pages
-- [Home](https://MRIIOT.github.io/mriiotdotcom/): Home page with hero, services overview, testimonials.
-- [About](https://MRIIOT.github.io/mriiotdotcom/about.html): Learn about Mr. IIoT's bio, timeline, and values.
-- [Services](https://MRIIOT.github.io/mriiotdotcom/services.html): Detailed services offered, including SHARC IoT Sensor Adapter, Machine Data Integration, and Analytics.
-- [Solutions](https://MRIIOT.github.io/mriiotdotcom/solutions.html): Explore IT/OT Connectivity, Digital Transformation, Machine Monitoring, and other solutions.
-- [Process](https://MRIIOT.github.io/mriiotdotcom/process.html): Understand Mr. IIoT's methodology for assessment, design, implementation, and optimization.
-- [Contact](https://MRIIOT.github.io/mriiotdotcom/contact.html): Contact information and booking details.
-- [Free Assessment](https://MRIIOT.github.io/mriiotdotcom/audit.html): Book a complimentary digital transformation assessment.
+
+Home: https://MRIIOT.github.io/mriiotdotcom/ : Overview of Mr. IIoT's solutions, services, and client testimonials.
+About: https://MRIIOT.github.io/mriiotdotcom/about.html : Learn about Mr. IIoT's mission, expertise, and philosophy.
+Services: https://MRIIOT.github.io/mriiotdotcom/services.html : Detailed descriptions of advanced IoT solutions, including SHARC, data integration, and analytics.
+Solutions: https://MRIIOT.github.io/mriiotdotcom/solutions.html : Explore specific Industry 4.0 solutions and case studies.
+Process: https://MRIIOT.github.io/mriiotdotcom/process.html : Understand Mr. IIoT's four-step methodology for digital transformation.
+Contact: https://MRIIOT.github.io/mriiotdotcom/contact.html : Get in touch with Mr. IIoT for inquiries and support.
+Free Digital Transformation Assessment: https://MRIIOT.github.io/mriiotdotcom/audit.html : Book a complimentary consultation to start your Industry 4.0 journey.
 
 ## Contact
-- Email: info@mriiot.com
-- Phone: (312) 504-0681
-- Website: https://www.mriiot.com
-- Response Time: Within one business day
+
+Email: info@mriiot.com
+Phone: (312) 504-0681
+Website: https://www.mriiot.com
+Response Time: Within one business day
 
 ## Social
-- LinkedIn: https://www.linkedin.com/company/mriiot/
+
+LinkedIn: https://www.linkedin.com/company/mriiot/
